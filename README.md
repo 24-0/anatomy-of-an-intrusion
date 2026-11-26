@@ -44,12 +44,12 @@ An end-to-end SOC portfolio project that walks through the full life of an intru
 5. Confirmed Sysmon alerts appear in the Wazuh dashboard and began reviewing the first alert (rule 92058).
 
 Detailed documentation:
-- [01 – VM setup](docs/01-vm-setup.md)
-- [02 – Wazuh installation](docs/02-wazuh-installation.md)
-- [03 – Windows agent](docs/03-windows-agent.md)
-- [04 – Sysmon integration](docs/04-sysmon-integration.md)
-- [05 – First alert review](docs/05-first-alert-review.md)
-- [06 – Troubleshooting & lessons learned](docs/06-troubleshooting.md)
+- [01 – VM setup](01-vm-setup.md)
+- [02 – Wazuh installation](02-wazuh-installation.md)
+- [03 – Windows agent](03-windows-agent.md)
+- [04 – Sysmon integration](04-sysmon-integration.md)
+- [05 – First alert review](05-first-alert-review.md)
+- [06 – Troubleshooting & lessons learned](06-troubleshooting.md)
 
 ## Skills Demonstrated
 SIEM deployment · Windows endpoint telemetry (Sysmon) · Linux administration · virtualization and NAT networking · alert triage fundamentals · technical documentation
